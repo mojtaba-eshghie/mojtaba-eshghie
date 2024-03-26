@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 [![Mojtaba Eshghie's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojtaba-eshghie&count_private=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/mojtaba-eshghie/)
 
 
